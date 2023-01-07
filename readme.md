@@ -5,9 +5,8 @@
 
 ## 代码实现
 1. 使用浏览器的开发者模式爬取Bilibili评论接口
-```
-api.bilibili.com/pgc/review/short/list?media_id=(当前想要查询的id)&ps=30&sort=0
-```
+
+        api.bilibili.com/pgc/review/short/list?media_id=(当前想要查询的id)&ps=30&sort=0
 2. 编写代码
 ## 使用
 1. ### 不使用python
@@ -21,5 +20,6 @@ api.bilibili.com/pgc/review/short/list?media_id=(当前想要查询的id)&ps=30&
 ## 愿想
 - 多修点bug
 - 多来点假期
-_______
-$markdown$ $was$ $written$ $by$ $homo$
+
+## 后言
+本人只是一位初中生，所以无法经常维护自己的项目，望见谅...
